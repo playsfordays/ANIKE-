@@ -1,0 +1,4 @@
+git clone https://github.com/jsemu3/gba
+cd gba
+npm start
+npm install
